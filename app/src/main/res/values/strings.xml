@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+    <string name="btn1">点击启动OtherActivity</string>
+    <string name="btn2">点击启动发送短信的界面</string>
+</resources>
